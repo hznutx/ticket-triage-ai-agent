@@ -1,0 +1,29 @@
+{
+  "customer_info": {
+    "id": "demo-billing",
+    "planType": "Free",
+    "userName": null,
+    "region": null,
+    "seats": null,
+    "tenureMonths": 4,
+    "notes": "Free plan (upgrade attempted), 4 months on free tier, first time contacting support"
+  },
+  "messages": [
+    {
+      "updatedAt": "2026-11-18T23:54:55.193Z",
+      "user_detail": "My payment failed when I tried to upgrade to Pro. Can you check what's wrong?"
+    },
+    {
+      "updatedAt": "2026-11-19T00:54:55.193Z",
+      "user_detail": "I tried again with a different card. Now I see TWO pending charges but my account still shows Free plan??"
+    },
+    {
+      "updatedAt": "2026-11-19T01:54:55.193Z",
+      "user_detail": "Okay this is getting ridiculous. Just checked my bank app - I have THREE charges of $29.99 now. None of them refunded. And I STILL don't have Pro access."
+    },
+    {
+      "updatedAt": "2026-11-19T02:54:55.193Z",
+      "user_detail": "HELLO?? Is anyone there??? I need this fixed NOW. I have a presentation in 2 hours and I need the Pro export features. If these charges aren't reversed by end of day I'm disputing all of them with my bank."
+    }
+  ]
+}

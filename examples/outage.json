@@ -1,0 +1,29 @@
+{
+  "customer_info": {
+    "id": "demo-outage",
+    "planType": "Enterprise",
+    "userName": null,
+    "region": "Thailand",
+    "seats": 45,
+    "tenureMonths": 8,
+    "notes": "Enterprise plan, Thailand region, 45 seats, 8 months customer, first critical issue"
+  },
+  "messages": [
+    {
+      "updatedAt": "2026-11-19T00:54:55.193Z",
+      "user_detail": "ระบบเข้าไม่ได้ครับ ขึ้น error 500"
+    },
+    {
+      "updatedAt": "2026-11-19T01:24:55.193Z",
+      "user_detail": "ลองหลายเครื่องแล้ว ทั้ง Chrome, Safari, Firefox ผลเหมือนกันหมด เพื่อนร่วมงานก็เข้าไม่ได้เหมือนกัน"
+    },
+    {
+      "updatedAt": "2026-11-19T02:09:55.193Z",
+      "user_detail": "ตอนนี้ลูกค้าโวยเข้ามาเยอะมาก เรามี demo กับลูกค้ารายใหญ่บ่ายนี้ ถ้าระบบไม่กลับมา deal นี้อาจจะหลุด"
+    },
+    {
+      "updatedAt": "2026-11-19T02:54:55.193Z",
+      "user_detail": "เช็ค status.company.com แล้ว บอกว่า all systems operational แต่เราใช้งานไม่ได้จริงๆ ช่วยเช็คให้หน่อยได้ไหมครับ region Asia มีปัญหาหรือเปล่า?"
+    }
+  ]
+}
