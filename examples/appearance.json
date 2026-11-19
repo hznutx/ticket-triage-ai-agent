@@ -1,0 +1,29 @@
+{
+  "customer_info": {
+    "id": "demo-appearance",
+    "planType": "Pro",
+    "userName": null,
+    "region": null,
+    "seats": null,
+    "tenureMonths": 5,
+    "notes": "Pro plan, 5 months customer, active user (daily logins), no previous support tickets"
+  },
+  "messages": [
+    {
+      "updatedAt": "2026-11-17T02:54:55.193Z",
+      "user_detail": "Hey, just wondering if you support dark mode? No rush 😊"
+    },
+    {
+      "updatedAt": "2026-11-18T02:54:55.193Z",
+      "user_detail": "Thanks for the reply! Oh nice, so it's in Settings > Appearance. Found it! But hmm I'm on Pro plan and I only see 'Light' and 'System Default' options. No dark mode toggle?"
+    },
+    {
+      "updatedAt": "2026-11-18T05:54:55.193Z",
+      "user_detail": "Okay so I switched to 'System Default' and my Mac is set to dark mode, but your app still shows light theme. Is this a bug or am I missing something?"
+    },
+    {
+      "updatedAt": "2026-11-19T02:54:55.193Z",
+      "user_detail": "Also random question while I have you - is there a way to schedule dark mode? Like auto-switch at 6pm? Some apps have that. Would be cool if you guys added it 👀"
+    }
+  ]
+}
