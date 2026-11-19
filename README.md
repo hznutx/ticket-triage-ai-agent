@@ -1,6 +1,8 @@
 # Support Ticket Triage Agent
 
-This application reads a customer support ticket and suggests how a support team should handle it. It uses OpenAI GPT to decide the priority_level, issue type, next action, and a suggested reply.
+This Agent APIs document can be integratios with Flutter or other code-language UI interface.
+The AI Agent service can flexible to change model or be scalable and maintainance in the future.
+Core function: help read a customer ticket and suggest how a support team should handle it. It uses OpenAI GPT to decide the priority_level, issue type, next action, and a suggested reply.
 
 ## What you need
 
